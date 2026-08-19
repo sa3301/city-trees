@@ -1,0 +1,29 @@
+# Core scientific / plotting
+numpy
+pandas
+matplotlib
+seaborn
+
+# Geospatial
+geopandas
+shapely
+fiona
+pyproj
+rtree
+rasterio
+
+# Earth Engine / mapping
+earthengine-api
+geemap
+
+# ML / stats
+scikit-learn
+statsmodels
+
+# Notebook / UX
+jupyterlab
+ipywidgets
+folium
+
+# Utilities
+tqdm
